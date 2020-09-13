@@ -3,7 +3,7 @@ package struct;
 @SuppressWarnings("serial")
 public class StructException extends Exception {
 
-	public StructException() {
+    public StructException() {
         super();
     }
 
